@@ -1,4 +1,3 @@
 Hi, this is Prasanna K.H. learning AWS DevOps from Naresh through James.
 Welcome to DevOps course.
 Line 3
-Line 4
